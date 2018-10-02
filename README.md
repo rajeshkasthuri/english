@@ -20,4 +20,6 @@ Event that occured in past inside past.
 
 By the time I went to station, Train had left the station on yesterday.
 
+Yesterday referes to past. And when you reached the station on yesterday it referes to past about past. 
+
 https://www.youtube.com/watch?v=EYGd8wc_Wf0
